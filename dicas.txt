@@ -1,0 +1,22 @@
+//console.log(pacientes)
+//console.log("tamanho do meu array é: " + pacientes.length);
+//console.log(imc);
+// ||  <- ou no JS
+// &&  <- Quando as duas condições forem validas no JS 
+// Comentarios do dessa código
+//console.log(paciente); // tr
+//console.log(tdAltura); // td que tem o peso
+//console.log(altura); // obter 100
+//console.log(titulo);
+//console.log(titulo.textContent);
+//console.log("Fui carregado de um arquivo externo");
+//var mensagem = "Bem vindo ao meu site"
+//alert(mensagem);
+//var paciente2 = document.querySelector("#segundo-paciente");
+//var paciente3 = document.querySelector("#terceiro-paciente");
+//var paciente4 = document.querySelector("#quarto-paciente");
+//var paciente5 = document.querySelector("#quinto-paciente");
+//console.log(paciente2);
+//console.log(paciente3);
+//console.log(paciente4);
+//console.log(paciente5);
