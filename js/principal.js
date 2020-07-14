@@ -41,4 +41,40 @@ for (var i = 0; i < pacientes.length; i++) {
     }
 }
 
+var botaoAdicionar = document.querySelector("#adicionar-paciente");
 
+botaoAdicionar.addEventListener("click", function(event){
+    event.preventDefault();
+    
+    var form = document.querySelector("#form-adiciona");
+    
+    var nome = form.nome.value;
+    var peso = form.peso.value;
+    var altura = form.altura.value;
+    var gordura = form.gordura.value;
+    
+    
+    var pacienteTr = document.createElement("tr");
+    console.log(pacienteTr);
+
+    var nomeTd = document.createElement("td");
+    var pesoTd = document.createElement("td");
+    var alturaTd = document.createElement("td");
+    var gordura = document.createElement("td");
+    var imcTd = document.createElement("td");
+
+    
+});  
+
+
+
+
+//titulo.addEventListener("click") -> Adicionar um evento ao click do usuario
+//console.log(form.altura.[value]);
+//console.log(form.peso.[value]);
+
+// Linha 62 -> No console dar um espaço de 4 elementros depois que ele chama a TR   
+//console.log(nome);
+//console.log(peso);
+//console.log(altura);
+//console.log(gordura);
