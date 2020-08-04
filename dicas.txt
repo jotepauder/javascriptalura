@@ -1,3 +1,5 @@
+Dicas do estudo de JS do curso da Alura
+
 //console.log(pacientes)
 //console.log("tamanho do meu array é: " + pacientes.length);
 //console.log(imc);
@@ -20,3 +22,4 @@
 //console.log(paciente3);
 //console.log(paciente4);
 //console.log(paciente5);
+
